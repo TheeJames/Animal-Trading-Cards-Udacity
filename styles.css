@@ -1,0 +1,51 @@
+body {
+  font-family: Arial;
+  background-color: LightSteelBlue
+}
+
+  ul {
+    list-style-type: none;
+  }
+
+  .card-border {
+    border-left: 5px solid blue;
+  }
+
+  .card-bordertwo {
+    border-left: 5px solid black;
+  }
+
+  .card-borderthree {
+    border-left: 5px red solid;
+  }
+
+  .card-Imagewidth {
+    width: 300px;
+  }
+
+  .card-spacing {
+    margin:30px;
+  }
+
+  .card-imageborder {
+    border: 2px solid green;
+    border-radius: 5px
+  }
+
+  .card-descriptionborder {
+    border-style: double;
+    border-width: 3px
+  }
+
+  .card-space {
+      margin-top: 35px;
+      }
+
+  .text-italic {
+        font-style: italic;
+      }
+
+  .text-bold {
+        font-style: bold;
+      }
+/* add your CSS here */
