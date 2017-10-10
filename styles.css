@@ -24,7 +24,11 @@ body {
   }
 
   .card-spacing {
-    margin:30px;
+    margin:10px;
+  }
+
+  .wholecard-border {
+    border: 2px solid black;
   }
 
   .card-imageborder {
@@ -48,4 +52,7 @@ body {
   .text-bold {
         font-style: bold;
       }
+  .card-width {
+    max-width: 325px;
+  }
 /* add your CSS here */
